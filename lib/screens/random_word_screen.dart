@@ -34,25 +34,59 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
       appBar: AppBar(title: Text('מילה אקראית')),
       body: _randomWord == null
           ? Center(child: CircularProgressIndicator())
-          : Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text('עברית: ${_randomWord!.hebrew}', style: TextStyle(fontSize: 24)),
-            SizedBox(height: 8),
-            Text('אמהרית: ${_randomWord!.amharic}', style: TextStyle(fontSize: 24)),
-            SizedBox(height: 8),
-            Text('הגייה בעברית: ${_randomWord!.hebrewPronunciation}', style: TextStyle(fontSize: 20)),
-            SizedBox(height: 8),
-            Text('הגייה באמהרית: ${_randomWord!.amharicPronunciation}', style: TextStyle(fontSize: 20)),
-            SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: _getRandomWord,
-              child: Text('מילה אקראית חדשה'),
+          : Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Expanded(
+            child: Center(
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    _randomWord!.hebrew,
+                    style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
+                    textAlign: TextAlign.center,
+                  ),
+                  SizedBox(height: 16),
+                  Text(
+                    _randomWord!.amharic,
+                    style: TextStyle(fontSize: 28),
+                    textAlign: TextAlign.center,
+                  ),
+                  SizedBox(height: 8),
+                  Text(
+                    'הגייה בעברית: ${_randomWord!.hebrewPronunciation}',
+                    style: TextStyle(fontSize: 24),
+                    textAlign: TextAlign.center,
+                  ),
+                  SizedBox(height: 8),
+                  Text(
+                    'הגייה באמהרית: ${_randomWord!.amharicPronunciation}',
+                    style: TextStyle(fontSize: 24),
+                    textAlign: TextAlign.center,
+                  ),
+                ],
+              ),
             ),
-          ],
-        ),
+          ),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 32.0, vertical: 100.0),
+            child: SizedBox(
+              width: double.infinity,
+              height: 70,
+              child: ElevatedButton(
+                onPressed: _getRandomWord,
+                style: ElevatedButton.styleFrom(
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(30), // פינות עגולות יותר
+                  ),
+                  padding: EdgeInsets.symmetric(vertical: 16),
+                ),
+                child: Text('מילה אקראית חדשה', style: TextStyle(fontSize: 25)),
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

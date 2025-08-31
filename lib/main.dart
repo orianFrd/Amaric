@@ -44,7 +44,16 @@ class _MyAppState extends State<MyApp> {
     }
     return MaterialApp(
       title: 'Amharic Translator',
-      theme: ThemeData(primarySwatch: Colors.blue),
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      // כאן הוספנו את התמיכה ב-RTL
+      builder: (context, child) {
+        return Directionality(
+          textDirection: TextDirection.rtl,
+          child: child!,
+        );
+      },
       home: HomePage(wordService: wordService),
     );
   }
