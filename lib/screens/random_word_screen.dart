@@ -1,65 +1,55 @@
 import 'package:flutter/material.dart';
 import '../services/word_service.dart';
 import '../models/word.dart';
-import 'dart:math';
 
 class RandomWordScreen extends StatefulWidget {
   final WordService wordService;
-
-  const RandomWordScreen({super.key, required this.wordService});
+  const RandomWordScreen({Key? key, required this.wordService}) : super(key: key);
 
   @override
   State<RandomWordScreen> createState() => _RandomWordScreenState();
 }
 
 class _RandomWordScreenState extends State<RandomWordScreen> {
-  late Word currentWord;
+  Word? _randomWord;
+
+  void _getRandomWord() async {
+    if (widget.wordService != null) {
+      await widget.wordService.loadWords();
+      setState(() {
+        _randomWord = widget.wordService.getRandomWord();
+      });
+    }
+  }
 
   @override
   void initState() {
     super.initState();
-    currentWord = widget.wordService.getRandomWord();
-  }
-
-  void nextWord() {
-    Word newWord;
-    do {
-      newWord = widget.wordService.getRandomWord();
-    } while (newWord == currentWord);
-    setState(() {
-      currentWord = newWord;
-    });
+    _getRandomWord();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('מילה אקראית')),
-      body: Center(
+      appBar: AppBar(title: Text('מילה אקראית')),
+      body: _randomWord == null
+          ? Center(child: CircularProgressIndicator())
+          : Padding(
+        padding: const EdgeInsets.all(16.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            ExpansionTile(
-              title: Text(currentWord.hebrew),
-              trailing: const Icon(Icons.arrow_drop_down),
-              children: [
-                Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text('אמהרית: ${currentWord.amharic}'),
-                      Text('ביטוי בעברית: ${currentWord.hebrewPronunciation}'),
-                      Text('ביטוי באמהרית: ${currentWord.amharicPronunciation}'),
-                    ],
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 20),
+            Text('עברית: ${_randomWord!.hebrew}', style: TextStyle(fontSize: 24)),
+            SizedBox(height: 8),
+            Text('אמהרית: ${_randomWord!.amharic}', style: TextStyle(fontSize: 24)),
+            SizedBox(height: 8),
+            Text('הגייה בעברית: ${_randomWord!.hebrewPronunciation}', style: TextStyle(fontSize: 20)),
+            SizedBox(height: 8),
+            Text('הגייה באמהרית: ${_randomWord!.amharicPronunciation}', style: TextStyle(fontSize: 20)),
+            SizedBox(height: 20),
             ElevatedButton(
-              onPressed: nextWord,
-              child: const Text('מילה הבאה'),
+              onPressed: _getRandomWord,
+              child: Text('מילה אקראית חדשה'),
             ),
           ],
         ),
