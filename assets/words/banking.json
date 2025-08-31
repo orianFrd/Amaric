@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "בנק",
+    "amharic": "ባንክ",
+    "hebrew_pronunciation": "בנק",
+    "amharic_pronunciation": "בנק",
+    "category": "בנקאות"
+  },
+  {
+    "hebrew": "חשבון",
+    "amharic": "መለያ",
+    "hebrew_pronunciation": "חשבון",
+    "amharic_pronunciation": "מליה",
+    "category": "בנקאות"
+  },
+  {
+    "hebrew": "כסף",
+    "amharic": "ገንዘብ",
+    "hebrew_pronunciation": "כסף",
+    "amharic_pronunciation": "גנזב",
+    "category": "בנקאות"
+  },
+  {
+    "hebrew": "הלוואה",
+    "amharic": "ብድር",
+    "hebrew_pronunciation": "הלוואה",
+    "amharic_pronunciation": "בידר",
+    "category": "בנקאות"
+  },
+  {
+    "hebrew": "כרטיס אשראי",
+    "amharic": "ክርድ ካርድ",
+    "hebrew_pronunciation": "כרטיס אשראי",
+    "amharic_pronunciation": "קרד קארד",
+    "category": "בנקאות"
+  }
+]

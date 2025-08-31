@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "בוקר טוב",
+    "amharic": "እንደምን አደሩ",
+    "hebrew_pronunciation": "בוקר טוב",
+    "amharic_pronunciation": "אנדֶמין אדרו",
+    "category": "חיי יום־יום"
+  },
+  {
+    "hebrew": "לשינה",
+    "amharic": "እንቅልፍ",
+    "hebrew_pronunciation": "לשינה",
+    "amharic_pronunciation": "אנקֶלף",
+    "category": "חיי יום־יום"
+  },
+  {
+    "hebrew": "ארוחת בוקר",
+    "amharic": "የጠዋት ምግብ",
+    "hebrew_pronunciation": "ארוחת בוקר",
+    "amharic_pronunciation": "ייטוואט מִגְב",
+    "category": "חיי יום־יום"
+  },
+  {
+    "hebrew": "ללכת לעבודה",
+    "amharic": "ወደ ስራ መሄድ",
+    "hebrew_pronunciation": "ללכת לעבודה",
+    "amharic_pronunciation": "וֶדֶה סִרה מֵהֵד",
+    "category": "חיי יום־יום"
+  },
+  {
+    "hebrew": "ארוחת צהריים",
+    "amharic": "የከሰው ምግብ",
+    "hebrew_pronunciation": "ארוחת צהריים",
+    "amharic_pronunciation": "יאקסאו מִגְב",
+    "category": "חיי יום־יום"
+  }
+]

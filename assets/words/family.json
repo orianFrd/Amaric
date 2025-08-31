@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "אבא",
+    "amharic": "አባት",
+    "hebrew_pronunciation": "אבת",
+    "amharic_pronunciation": "אבא",
+    "category": "משפחה"
+  },
+  {
+    "hebrew": "אמא",
+    "amharic": "እናት",
+    "hebrew_pronunciation": "אנת",
+    "amharic_pronunciation": "אמא",
+    "category": "משפחה"
+  },
+  {
+    "hebrew": "אח",
+    "amharic": "ወንድ ወንድም",
+    "hebrew_pronunciation": "וֶנד וֶנדם",
+    "amharic_pronunciation": "אח",
+    "category": "משפחה"
+  },
+  {
+    "hebrew": "אחות",
+    "amharic": "እህት",
+    "hebrew_pronunciation": "אֶהֵת",
+    "amharic_pronunciation": "אחות",
+    "category": "משפחה"
+  },
+  {
+    "hebrew": "בן",
+    "amharic": "ልጅ",
+    "hebrew_pronunciation": "לֶג'",
+    "amharic_pronunciation": "בן",
+    "category": "משפחה"
+  }
+]

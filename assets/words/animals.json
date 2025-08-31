@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "כלב",
+    "amharic": "ውሻ",
+    "hebrew_pronunciation": "כלב",
+    "amharic_pronunciation": "וושה",
+    "category": "חיות"
+  },
+  {
+    "hebrew": "חתול",
+    "amharic": "ድመት",
+    "hebrew_pronunciation": "חתול",
+    "amharic_pronunciation": "דמט",
+    "category": "חיות"
+  },
+  {
+    "hebrew": "סוס",
+    "amharic": "ፈረስ",
+    "hebrew_pronunciation": "סוס",
+    "amharic_pronunciation": "פרס",
+    "category": "חיות"
+  },
+  {
+    "hebrew": "פרה",
+    "amharic": "ከብት",
+    "hebrew_pronunciation": "פרה",
+    "amharic_pronunciation": "כבט",
+    "category": "חיות"
+  },
+  {
+    "hebrew": "כבשה",
+    "amharic": "በግ",
+    "hebrew_pronunciation": "כבשה",
+    "amharic_pronunciation": "בג",
+    "category": "חיות"
+  }
+]

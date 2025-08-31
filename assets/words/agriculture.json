@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "אדמה",
+    "amharic": "ምድር",
+    "hebrew_pronunciation": "אדמה",
+    "amharic_pronunciation": "מידר",
+    "category": "חקלאות"
+  },
+  {
+    "hebrew": "חיטה",
+    "amharic": "ዱርት",
+    "hebrew_pronunciation": "חיטה",
+    "amharic_pronunciation": "דורת",
+    "category": "חקלאות"
+  },
+  {
+    "hebrew": "גזר",
+    "amharic": "ካሮት",
+    "hebrew_pronunciation": "גזר",
+    "amharic_pronunciation": "קארוט",
+    "category": "חקלאות"
+  },
+  {
+    "hebrew": "תירס",
+    "amharic": "ድንች",
+    "hebrew_pronunciation": "תירס",
+    "amharic_pronunciation": "דנצ׳",
+    "category": "חקלאות"
+  },
+  {
+    "hebrew": "שעורה",
+    "amharic": "ስምት",
+    "hebrew_pronunciation": "שעורה",
+    "amharic_pronunciation": "סימט",
+    "category": "חקלאות"
+  }
+]

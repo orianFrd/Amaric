@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "בית ספר",
+    "amharic": "ትምህርት ቤት",
+    "hebrew_pronunciation": "טימהרת בית",
+    "amharic_pronunciation": "בית ספר",
+    "category": "חינוך"
+  },
+  {
+    "hebrew": "מורה",
+    "amharic": "መምህር",
+    "hebrew_pronunciation": "מֶמְהֶר",
+    "amharic_pronunciation": "מורה",
+    "category": "חינוך"
+  },
+  {
+    "hebrew": "תלמיד",
+    "amharic": "ተማሪ",
+    "hebrew_pronunciation": "תֶמַרי",
+    "amharic_pronunciation": "תלמיד",
+    "category": "חינוך"
+  },
+  {
+    "hebrew": "מבחן",
+    "amharic": "ፈተና",
+    "hebrew_pronunciation": "פטֶנא",
+    "amharic_pronunciation": "מבחן",
+    "category": "חינוך"
+  },
+  {
+    "hebrew": "לימודים",
+    "amharic": "ትምህርት",
+    "hebrew_pronunciation": "טימהרת",
+    "amharic_pronunciation": "לימודים",
+    "category": "חינוך"
+  }
+]

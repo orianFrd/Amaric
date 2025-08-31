@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "אדום",
+    "amharic": "ቀይ",
+    "hebrew_pronunciation": "אדום",
+    "amharic_pronunciation": "קיי",
+    "category": "צבעים"
+  },
+  {
+    "hebrew": "כחול",
+    "amharic": "ሰማያዊ",
+    "hebrew_pronunciation": "כחול",
+    "amharic_pronunciation": "סמאיוי",
+    "category": "צבעים"
+  },
+  {
+    "hebrew": "ירוק",
+    "amharic": "አረንጓዴ",
+    "hebrew_pronunciation": "ירוק",
+    "amharic_pronunciation": "ארנגוואדה",
+    "category": "צבעים"
+  },
+  {
+    "hebrew": "צהוב",
+    "amharic": "አረንጋ",
+    "hebrew_pronunciation": "צהוב",
+    "amharic_pronunciation": "ארנגה",
+    "category": "צבעים"
+  },
+  {
+    "hebrew": "שחור",
+    "amharic": "ጥቁር",
+    "hebrew_pronunciation": "שחור",
+    "amharic_pronunciation": "טקור",
+    "category": "צבעים"
+  }
+]

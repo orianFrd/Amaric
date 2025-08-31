@@ -1,0 +1,51 @@
+[
+  {
+    "hebrew": "יום ראשון",
+    "amharic": "እሁድ",
+    "hebrew_pronunciation": "יום ראשון",
+    "amharic_pronunciation": "אֶהוד",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "יום שני",
+    "amharic": "ሰኞ",
+    "hebrew_pronunciation": "יום שני",
+    "amharic_pronunciation": "סנו",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "יום שלישי",
+    "amharic": "ማክሰኞ",
+    "hebrew_pronunciation": "יום שלישי",
+    "amharic_pronunciation": "מאקסנו",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "יום רביעי",
+    "amharic": "ረቡዕ",
+    "hebrew_pronunciation": "יום רביעי",
+    "amharic_pronunciation": "רבו׳",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "יום חמישי",
+    "amharic": "ሐሙስ",
+    "hebrew_pronunciation": "יום חמישי",
+    "amharic_pronunciation": "חמס",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "יום שישי",
+    "amharic": "አርብ",
+    "hebrew_pronunciation": "יום שישי",
+    "amharic_pronunciation": "ארב",
+    "category": "ימים"
+  },
+  {
+    "hebrew": "שבת",
+    "amharic": "ቅዳሜ",
+    "hebrew_pronunciation": "שבת",
+    "amharic_pronunciation": "קידאמה",
+    "category": "ימים"
+  }
+]

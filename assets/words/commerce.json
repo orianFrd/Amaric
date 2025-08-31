@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "חנות",
+    "amharic": "መደብ",
+    "hebrew_pronunciation": "חנות",
+    "amharic_pronunciation": "מדב",
+    "category": "מסחר"
+  },
+  {
+    "hebrew": "שוק",
+    "amharic": "ገበያ",
+    "hebrew_pronunciation": "שוק",
+    "amharic_pronunciation": "גֶביה",
+    "category": "מסחר"
+  },
+  {
+    "hebrew": "כסף",
+    "amharic": "ገንዘብ",
+    "hebrew_pronunciation": "כסף",
+    "amharic_pronunciation": "גֶנזֶב",
+    "category": "מסחר"
+  },
+  {
+    "hebrew": "מכירה",
+    "amharic": "ሽያጭ",
+    "hebrew_pronunciation": "מכירה",
+    "amharic_pronunciation": "שיאצ׳",
+    "category": "מסחר"
+  },
+  {
+    "hebrew": "קנייה",
+    "amharic": "ግዢ",
+    "hebrew_pronunciation": "קנייה",
+    "amharic_pronunciation": "גֶז׳י",
+    "category": "מסחר"
+  }
+]

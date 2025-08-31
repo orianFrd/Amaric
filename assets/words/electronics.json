@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "טלפון",
+    "amharic": "ስልክ",
+    "hebrew_pronunciation": "סלק",
+    "amharic_pronunciation": "טלפון",
+    "category": "אלקטרוניקה"
+  },
+  {
+    "hebrew": "מחשב",
+    "amharic": "ኮምፒውተር",
+    "hebrew_pronunciation": "קומפיוטר",
+    "amharic_pronunciation": "מחשב",
+    "category": "אלקטרוניקה"
+  },
+  {
+    "hebrew": "טלוויזיה",
+    "amharic": "ቴሌቪዥን",
+    "hebrew_pronunciation": "טלֶווִויז'ן",
+    "amharic_pronunciation": "טלוויזיה",
+    "category": "אלקטרוניקה"
+  },
+  {
+    "hebrew": "רדיו",
+    "amharic": "ራዲዮ",
+    "hebrew_pronunciation": "רָדִיוֹ",
+    "amharic_pronunciation": "רדיו",
+    "category": "אלקטרוניקה"
+  },
+  {
+    "hebrew": "מצלמה",
+    "amharic": "ካሜራ",
+    "hebrew_pronunciation": "קאמרה",
+    "amharic_pronunciation": "מצלמה",
+    "category": "אלקטרוניקה"
+  }
+]

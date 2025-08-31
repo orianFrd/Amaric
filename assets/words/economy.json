@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "כסף",
+    "amharic": "ገንዘብ",
+    "hebrew_pronunciation": "גֶנזֶב",
+    "amharic_pronunciation": "כסף",
+    "category": "כלכלה"
+  },
+  {
+    "hebrew": "בנק",
+    "amharic": "ባንክ",
+    "hebrew_pronunciation": "בַּנְק",
+    "amharic_pronunciation": "בנק",
+    "category": "כלכלה"
+  },
+  {
+    "hebrew": "הלוואה",
+    "amharic": "ብድር",
+    "hebrew_pronunciation": "בדיר",
+    "amharic_pronunciation": "הלוואה",
+    "category": "כלכלה"
+  },
+  {
+    "hebrew": "השקעה",
+    "amharic": "እንቅስቃሴ",
+    "hebrew_pronunciation": "אנקסקסה",
+    "amharic_pronunciation": "השקעה",
+    "category": "כלכלה"
+  },
+  {
+    "hebrew": "מסחר",
+    "amharic": "ንግድ",
+    "hebrew_pronunciation": "נֶגֶד",
+    "amharic_pronunciation": "מסחר",
+    "category": "כלכלה"
+  }
+]

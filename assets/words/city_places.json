@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "בית ספר",
+    "amharic": "ትምህርት ቤት",
+    "hebrew_pronunciation": "ቤית ስפר",
+    "amharic_pronunciation": "טימהרט בֵת",
+    "category": "מקומות בעיר"
+  },
+  {
+    "hebrew": "בתי קפה",
+    "amharic": "ቡና ቤቶች",
+    "hebrew_pronunciation": "בתי קפה",
+    "amharic_pronunciation": "בונה ביתוֹך",
+    "category": "מקומות בעיר"
+  },
+  {
+    "hebrew": "פארק",
+    "amharic": "ፓርክ",
+    "hebrew_pronunciation": "פארק",
+    "amharic_pronunciation": "פארק",
+    "category": "מקומות בעיר"
+  },
+  {
+    "hebrew": "חנות",
+    "amharic": "ሱቅ",
+    "hebrew_pronunciation": "חנות",
+    "amharic_pronunciation": "סוק",
+    "category": "מקומות בעיר"
+  },
+  {
+    "hebrew": "תחנת רכבת",
+    "amharic": "ባቡር ጣቢያ",
+    "hebrew_pronunciation": "תחנת רכבת",
+    "amharic_pronunciation": "בבור טאביה",
+    "category": "מקומות בעיר"
+  }
+]

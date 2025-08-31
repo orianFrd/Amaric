@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "מים",
+    "amharic": "ውሃ",
+    "hebrew_pronunciation": "מַים",
+    "amharic_pronunciation": "וֹהָ",
+    "category": "משקאות"
+  },
+  {
+    "hebrew": "קפה",
+    "amharic": "ቡና",
+    "hebrew_pronunciation": "קָפֶה",
+    "amharic_pronunciation": "בּוּנָא",
+    "category": "משקאות"
+  },
+  {
+    "hebrew": "חלב",
+    "amharic": "ወተት",
+    "hebrew_pronunciation": "חָלָב",
+    "amharic_pronunciation": "וֶתֶת",
+    "category": "משקאות"
+  },
+  {
+    "hebrew": "תה",
+    "amharic": "ቻይ",
+    "hebrew_pronunciation": "תֵה",
+    "amharic_pronunciation": "צ׳אי",
+    "category": "משקאות"
+  },
+  {
+    "hebrew": "מיץ תפוזים",
+    "amharic": "የኩባንያ ጭማቂ",
+    "hebrew_pronunciation": "מִיץ תַּפּוּזִים",
+    "amharic_pronunciation": "יֶקֻבָנְיָא צ׳ִמַאקִי",
+    "category": "משקאות"
+  }
+]

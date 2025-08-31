@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "ראש",
+    "amharic": "ራስ",
+    "hebrew_pronunciation": "ראש",
+    "amharic_pronunciation": "ראס",
+    "category": "גוף האדם"
+  },
+  {
+    "hebrew": "יד",
+    "amharic": "እጅ",
+    "hebrew_pronunciation": "יד",
+    "amharic_pronunciation": "א׳ג׳",
+    "category": "גוף האדם"
+  },
+  {
+    "hebrew": "רגל",
+    "amharic": "እግር",
+    "hebrew_pronunciation": "רגל",
+    "amharic_pronunciation": "א׳גר",
+    "category": "גוף האדם"
+  },
+  {
+    "hebrew": "עין",
+    "amharic": "አይን",
+    "hebrew_pronunciation": "עין",
+    "amharic_pronunciation": "אין",
+    "category": "גוף האדם"
+  },
+  {
+    "hebrew": "פה",
+    "amharic": "ፅንስ",
+    "hebrew_pronunciation": "פה",
+    "amharic_pronunciation": "צ׳נס",
+    "category": "גוף האדם"
+  }
+]

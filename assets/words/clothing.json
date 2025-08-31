@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "חולצה",
+    "amharic": "ሸሚዝ",
+    "hebrew_pronunciation": "חולצה",
+    "amharic_pronunciation": "שמידז",
+    "category": "ביגוד"
+  },
+  {
+    "hebrew": "מכנסיים",
+    "amharic": "ጉልበት",
+    "hebrew_pronunciation": "מכנסיים",
+    "amharic_pronunciation": "גולבט",
+    "category": "ביגוד"
+  },
+  {
+    "hebrew": "שמלה",
+    "amharic": "ቀሚስ",
+    "hebrew_pronunciation": "שמלה",
+    "amharic_pronunciation": "קמיס",
+    "category": "ביגוד"
+  },
+  {
+    "hebrew": "כובע",
+    "amharic": "ቀሚያ",
+    "hebrew_pronunciation": "כובע",
+    "amharic_pronunciation": "קמיא",
+    "category": "ביגוד"
+  },
+  {
+    "hebrew": "נעליים",
+    "amharic": "ጫማ",
+    "hebrew_pronunciation": "נעליים",
+    "amharic_pronunciation": "צ׳מא",
+    "category": "ביגוד"
+  }
+]

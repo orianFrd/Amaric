@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "שמחה",
+    "amharic": "ደስታ",
+    "hebrew_pronunciation": "דֶסְתָא",
+    "amharic_pronunciation": "שמחה",
+    "category": "רגשות"
+  },
+  {
+    "hebrew": "עצבות",
+    "amharic": "ሐሴት",
+    "hebrew_pronunciation": "חָסֵת",
+    "amharic_pronunciation": "עצבות",
+    "category": "רגשות"
+  },
+  {
+    "hebrew": "כעס",
+    "amharic": "ቁጣ",
+    "hebrew_pronunciation": "קוּטע",
+    "amharic_pronunciation": "כעס",
+    "category": "רגשות"
+  },
+  {
+    "hebrew": "פחד",
+    "amharic": "ፍርሃት",
+    "hebrew_pronunciation": "פִרְחָאת",
+    "amharic_pronunciation": "פחד",
+    "category": "רגשות"
+  },
+  {
+    "hebrew": "אהבה",
+    "amharic": "ፍቅር",
+    "hebrew_pronunciation": "פִקִר",
+    "amharic_pronunciation": "אהבה",
+    "category": "רגשות"
+  }
+]

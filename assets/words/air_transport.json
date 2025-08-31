@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "מטוס",
+    "amharic": "አውሮፕላን",
+    "hebrew_pronunciation": "מטוס",
+    "amharic_pronunciation": "אווירופלאן",
+    "category": "תחבורה אווירית"
+  },
+  {
+    "hebrew": "מסוק",
+    "amharic": "ሄሊኮፕተር",
+    "hebrew_pronunciation": "מסוק",
+    "amharic_pronunciation": "הליקופטר",
+    "category": "תחבורה אווירית"
+  },
+  {
+    "hebrew": "דאון",
+    "amharic": "ዳውን",
+    "hebrew_pronunciation": "דאון",
+    "amharic_pronunciation": "דאון",
+    "category": "תחבורה אווירית"
+  },
+  {
+    "hebrew": "נמל תעופה",
+    "amharic": "አየርፖርት",
+    "hebrew_pronunciation": "נמל תעופה",
+    "amharic_pronunciation": "איירפורט",
+    "category": "תחבורה אווירית"
+  },
+  {
+    "hebrew": "טייס",
+    "amharic": "አየርፓይሎት",
+    "hebrew_pronunciation": "טייס",
+    "amharic_pronunciation": "איירפיילוט",
+    "category": "תחבורה אווירית"
+  }
+]

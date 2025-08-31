@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "ציור",
+    "amharic": "ስዕል",
+    "hebrew_pronunciation": "ציור",
+    "amharic_pronunciation": "סאעיל",
+    "category": "אומנות"
+  },
+  {
+    "hebrew": "פיסול",
+    "amharic": "አስደሳች ስነ-ጥበብ",
+    "hebrew_pronunciation": "פיסול",
+    "amharic_pronunciation": "אסדסאצ׳ סנה-טבב",
+    "category": "אומנות"
+  },
+  {
+    "hebrew": "מוזיקה",
+    "amharic": "ሙዚቃ",
+    "hebrew_pronunciation": "מוזיקה",
+    "amharic_pronunciation": "מוזיקה",
+    "category": "אומנות"
+  },
+  {
+    "hebrew": "מחול",
+    "amharic": "ዳንስ",
+    "hebrew_pronunciation": "מחול",
+    "amharic_pronunciation": "דנס",
+    "category": "אומנות"
+  },
+  {
+    "hebrew": "תיאטרון",
+    "amharic": "ቲያትር",
+    "hebrew_pronunciation": "תיאטרון",
+    "amharic_pronunciation": "טיאטר",
+    "category": "אומנות"
+  }
+]

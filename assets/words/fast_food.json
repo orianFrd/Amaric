@@ -1,0 +1,37 @@
+[
+  {
+    "hebrew": "המבורגר",
+    "amharic": "ሃምበርገር",
+    "hebrew_pronunciation": "המבורגר",
+    "amharic_pronunciation": "האמברגר",
+    "category": "אוכל מהיר"
+  },
+  {
+    "hebrew": "פיצה",
+    "amharic": "ፒጣ",
+    "hebrew_pronunciation": "פיצה",
+    "amharic_pronunciation": "פיצה",
+    "category": "אוכל מהיר"
+  },
+  {
+    "hebrew": "טוסט",
+    "amharic": "ቶስት",
+    "hebrew_pronunciation": "טוסט",
+    "amharic_pronunciation": "טוסט",
+    "category": "אוכל מהיר"
+  },
+  {
+    "hebrew": "צ'יפס",
+    "amharic": "ፍሪ ፍራይ",
+    "hebrew_pronunciation": "צ'יפס",
+    "amharic_pronunciation": "צ'יפס",
+    "category": "אוכל מהיר"
+  },
+  {
+    "hebrew": "נקניקייה",
+    "amharic": "ሶስጅ",
+    "hebrew_pronunciation": "נקניקייה",
+    "amharic_pronunciation": "סוסג'",
+    "category": "אוכל מהיר"
+  }
+]
