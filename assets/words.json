@@ -1,0 +1,23 @@
+[
+  {
+    "hebrew": "שלום",
+    "amharic": "ሰላም",
+    "hebrew_pronunciation": "ሸሎም",
+    "amharic_pronunciation": "סלאם",
+    "category": "ברכות"
+  },
+  {
+    "hebrew": "מה שלומך",
+    "amharic": "እንደምን አለህ",
+    "hebrew_pronunciation": "ማ ሸሎምክ",
+    "amharic_pronunciation": "אנדמין אלה",
+    "category": "ברכות"
+  },
+  {
+    "hebrew": "תודה",
+    "amharic": "አመሰግናለሁ",
+    "hebrew_pronunciation": "ቶዳ",
+    "amharic_pronunciation": "אמסג'נלו",
+    "category": "תודה"
+  }
+]
